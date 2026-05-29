@@ -1,5 +1,5 @@
 # 🚔 Crimes in India Analysis & Prediction System 
-
+ 
 A comprehensive data analytics and machine learning project focused on analyzing crime patterns across India. This capstone project helps in understanding crime trends, identifying high-risk regions, visualizing crime statistics, and predicting future crime occurrences using data-driven approaches. 
 
 ---
