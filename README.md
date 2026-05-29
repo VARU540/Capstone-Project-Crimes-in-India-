@@ -4,7 +4,7 @@ A comprehensive data analytics and machine learning project focused on analyzing
 
 ---
 
-# 📌 Project Overview 
+# 📌 Project Overview  
  
 The **Crimes in India Analysis & Prediction System** is designed to provide meaningful insights into crime data collected from different states and districts of India. The project combines **Data Analysis**, **Machine Learning**, and **Interactive Visualization** techniques to assist in understanding criminal activities and support better decision-making.
 
